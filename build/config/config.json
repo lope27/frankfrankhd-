@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2a9e85747e24e1E3A8416bFE52edF824bbcbDe45",
+  "SCAN_LINK": "https://etherscan.io/address/0x2a9e85747e24e1e3a8416bfe52edf824bbcbde45",
+  "NETWORK": {
+    "NAME": "Main",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "frankfrank HD",
+  "SYMBOL": "frankHD",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/frankfrank-hd",
+  "SHOW_BACKGROUND": true
+}
